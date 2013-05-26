@@ -47,3 +47,8 @@ foreach ($h as $k=>$v)
 // 4=>10
 ```
 
+Purpose
+-------
+
+This class was implemented for use with [NlpTools](http://php-nlp-tools.com/) in reducing the hierarchical clustering complexity from O(n<sup>3</sup>) to O(n<sup>2</sup>logn).
+
